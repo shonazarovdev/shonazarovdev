@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋 I'm Mukhammad.<br>I Develop websites.
+  <br><br>
+</h1>
 
-<!--
-**MukhammadDev9/MukhammadDev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">mukhammad.dev</a> ⚡
+  <br><br>
+</h2>
 
-Here are some ideas to get you started:
+### Contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mukhammad-shonazarov-68878325a/)
+- 🐓 [Twitter](https://twitter.com/MukhammadDev)
+- 🖊 [Telegram](https://t.me/mukhammadDev)
