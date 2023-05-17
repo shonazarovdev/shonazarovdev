@@ -4,7 +4,7 @@ Hi there 👋 I'm Mukhammad.<br>I Develop websites.
 </h1>
 
 <h2 align="center">
-  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">mukhammad.dev</a> ⚡
+  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">mukhammad-dev.vercel.app</a> ⚡
   <br><br>
 </h2>
 
