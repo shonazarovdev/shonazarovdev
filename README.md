@@ -12,4 +12,4 @@ Hi there 👋 I'm Mukhammad.<br>I Develop websites.
 
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mukhammad-shonazarov-68878325a/)
 - 🐓 [Twitter](https://twitter.com/MukhammadDev)
-- 🖊 [Telegram](https://t.me/mukhammadDev)
+- 🖊 [Telegram](https://t.me/shonazarovdev)
