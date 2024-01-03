@@ -10,6 +10,8 @@ Hi there 👋 I'm Mukhammad.<br>I Develop websites.
 
 ### Contact me:
 
-- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/mukhammaddev/)
-- 🐓 [Twitter](https://twitter.com/mukhammaddev)
-- 🖊 [Telegram](https://t.me/shonazarovdev)
+- [LinkedIn](https://linkedin.com/in/mukhammaddev/)
+- [Twitter](https://twitter.com/mukhammaddev)
+- [Telegram](https://t.me/shonazarovdev)
+- [YouTube](https://youtube.com/@mukhammaddev)
+- [Instagram](https://instagram.com/mukhammaddev)
