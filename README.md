@@ -1,17 +1,29 @@
 <h1 align="center">
-Hi there 👋 I'm Mukhammad.<br>I Develop websites.
+Hi there 👋 I'm Muhammad Shonazarov.<br>I Develop websites.
   <br><br>
 </h1>
 
 <h2 align="center">
-  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">mukhammad-dev.vercel.app</a> ⚡
+  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">My Portfolio</a> ⚡
   <br><br>
 </h2>
 
-### Contact me:
+### Socials:
 
-- [LinkedIn](https://linkedin.com/in/mukhammaddev/)
-- [Twitter](https://twitter.com/mukhammaddev)
-- [Telegram](https://t.me/shonazarovdev)
-- [YouTube](https://youtube.com/@mukhammaddev)
-- [Instagram](https://instagram.com/mukhammaddev)
+<div id="badges">
+  <a href="https://t.me/shonazarovdev">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+  <a href="https://youtube.com/@mukhammaddev">
+    <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a>
+  <a href="[https://t.me/shonazarovdev](https://linkedin.com/in/mukhammaddev/)">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://instagram.com/mukhammaddev">
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://twitter.com/mukhammaddev">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+</div>
