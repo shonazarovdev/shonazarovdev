@@ -20,6 +20,9 @@ Hi there 👋 I'm Muhammad Shonazarov.<br>I Develop websites.
   <a href="[https://t.me/shonazarovdev](https://linkedin.com/in/mukhammaddev/)">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href="https://www.facebook.com/mukhammaddev">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
   <a href="https://instagram.com/mukhammaddev">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
