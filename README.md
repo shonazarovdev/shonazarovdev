@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-  ⚡ <a href="https://mukhammad-dev.vercel.app" target="_blank">My Portfolio</a> ⚡
+  ⚡ <a href="https://mukhammaddev.uz" target="_blank">My Portfolio</a> ⚡
   <br><br>
 </h2>
 
