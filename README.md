@@ -17,7 +17,7 @@
   --><a href="https://youtube.com/@mukhammaddev">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a><!--
-  --><a href="[https://t.me/shonazarovdev](https://linkedin.com/in/mukhammaddev/)">
+  --><a href="https://linkedin.com/in/Muhammad-Shonazarov">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a><!--
   --><a href="https://www.facebook.com/mukhammaddev">
