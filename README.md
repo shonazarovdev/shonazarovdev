@@ -11,7 +11,7 @@
 ### Socials:
 
 <div id="badges">
-  <a href="https://t.me/shonazarovdev">
+  <a href="https://t.me/Muhammad_Shonazarov">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a><!--
   --><a href="https://youtube.com/@mukhammaddev">
