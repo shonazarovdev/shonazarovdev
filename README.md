@@ -23,7 +23,7 @@
   --><a href="https://www.facebook.com/mukhammaddev">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a><!--
-  --><a href="https://instagram.com/mukhammaddev">
+  --><a href="https://instagram.com/mukhammad.028">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a><!--
   --><a href="https://twitter.com/mukhammaddev">
